@@ -1,0 +1,125 @@
+Impulse,Warrior,25,0,8,10,8,8,2,4,6,10,6,2,60,0,18,4,100,400,10,-4,22,28,28,28,28,28
+SKILLS: 
+streetslang,8
+english,4
+cherokee,4
+akido,2
+warpath,10
+weapons tech,0
+weaponsmith,4
+play instrument,0
+pick pocket,0
+pick lock,0
+pharmacuticals,0
+photo & film,0
+paint or draw,0
+gyro tech,0
+forgery,0
+first aid,2
+elect. security,0
+electronics,2
+disguise,0
+demolitions,0
+cyber tech,0
+cyberdeck design,0
+cryotank operation,0
+basic tech,6
+av tech,0
+aero tech,0
+submachinegun,0
+stealth,0
+rifle,7
+pilot (vect.thrust vehicle),0
+pilot (dirigible),0
+pilot (fixed wing),0
+pilot (gyro),0
+operate hvy. machinery,0
+motorcycle,5
+melee,0
+heavy weapons,0
+handgun,4
+fencing,0
+driving,0
+dodge & escape,3
+dance,0
+brawling,0
+athletics,5
+archer,0
+zoology,0
+wilderness survival,3
+teaching,0
+system knowledge,0
+stock market,0
+shadow/track,0
+programming,0
+physics,0
+mathematics,0
+library search,0
+history,0
+hide/evade,0
+geology,0
+gamble,0
+expert,0
+education & gen know,0
+diagnose illness,0
+composition,0
+chemistry,0
+botany,0
+biology,0
+awareness/notice,6
+anthropology,0
+accounting,0
+perform,0
+persuation & fast talk,0
+social,0
+seduction,0
+leadership,0
+interview,0
+human perception,0
+streetwise,0
+resist torture/drugs,0
+oratory,0
+intimidate,4
+interrogation,0
+swimming,0
+strength feat,0
+endurance,0
+wardrobe & style,0
+personal grooming,0
+streetdeal,0
+resources,0
+medical tech,0
+jury rig,0
+interface,0
+family,0
+credibility,0
+combat sense,0
+charismatic leadership,0
+authority,0
+INVENTORY: 
+custom longrider 500cc motorcycle,1
+filters,4
+filter mask,1
+all weather fire starter,1
+first aid/snake bite kit,1
+backpack stove,1
+bungee cords,1
+basic tech kit,1
+gun cleaning kit,1
+swiss army knife,1
+tent (2-person),1
+sleeping bag,1
+he grenade,2
+flash bang,4
+10 guage slugs,24
+10 gauge #OO buck,24
+7mm caseless ap,180
+.338 cased dual purpose,42
+militech mil/pol shotgun,1
+fed. arms l.a. 15,1
+nova .338,1
+machete,1
+dustercoat,1
+moto-cross armor,1
+smart helmet,1
+EOF
